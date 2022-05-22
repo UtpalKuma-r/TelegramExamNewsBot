@@ -10,7 +10,7 @@ import datetime
 import os
 
 
-API_KEY = '1711444940:AAGfWZ2yLfAUv0IrmcMVbNBvpDydNORPmZ0'
+API_KEY = 'api key'
 PATH = "/usr/bin/chromedriver"
 checked = False
 
