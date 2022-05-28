@@ -4,4 +4,4 @@ The bot extracts exam related data from official websites and sends the data to 
 
 # Supported Portels
 
-> CUET
+> CUET (https://cuet.samarth.ac.in/)
