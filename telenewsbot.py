@@ -59,9 +59,6 @@ def about(message):
     print(message.chat.id)
 
 
-# sendMessageInd(-1001552773038)
-# sendMessageInd(-1001544309751)
-
 while 1:
     
     if datetime.datetime.now().minute % 2 == 0 and checked == False:
